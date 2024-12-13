@@ -97,15 +97,15 @@
       flex-direction: column;
     }
     .heading{
-      font-size:15px;
+      font-size:14px;
       margin-left: 25%;
-      margin-top: -15%;
+      margin-top: -8%;
     }.img{
       margin-bottom: 100%;
     }
     .nav{
       padding: 0;
-      margin-top:20%;
+      margin-top:25%;
     }
     .nav ul li{
       padding-left: 0;
